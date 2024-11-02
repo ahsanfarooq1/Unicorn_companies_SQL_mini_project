@@ -19,6 +19,23 @@
  
  Klarna,Sweden,FinTech,46.0,2005,Sequoia Capital, Silver Lake, Dragoneer
 
+## View the Full PDF Document
 
+You can view the full PDF [here](https://drive.google.com/file/d/1pnMISGOxG72QiowPs1ciRj-h74lZqxf6/view?usp=sharing)
 
+ ## Conclusion
+ In this SQL mini project, I created a database of unicorn companies, inserted  relevant data, and conducted analyses to uncover trends related to sectors, 
+countries, and investors. Key findings include: 
 
+  The United States leads in unicorn creation, while FinTech is the most 
+valuable sectors.
+
+  Fidelity; Founders Fund is the most common investor, reflecting its strong 
+presence in the startup ecosystem.
+
+  Companies founded in the 2010s have higher average valuations compared to 
+earlier decades, highlighting recent growth in the startup landscape.
+
+ This project demonstrates how SQL can be used to effectively analyze and 
+interpret data from a variety of perspectives, providing valuable insights into the 
+unicorn startup ecosystem
